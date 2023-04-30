@@ -3,3 +3,5 @@ obj/
 *.suo
 packages/
 testresults/
+/WinFormsMVP/.vs/WinFormsMVP
+/.vs/winforms-mvp/v17
